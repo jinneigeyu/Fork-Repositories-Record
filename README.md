@@ -17,3 +17,12 @@ manage fork repositories
 10. OpenPose https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 11. https://github.com/SilverMaple/STLSourceCodeNote 
 12. https://github.com/huihut/interview
+
+
+## 一些好用的算法库
+1. windows c++ 开发必备工具： vcpkg  简直太好用
+   * nlohmann-json:x64-windows
+   * opencv4[contrib]:x64-windows
+   * eigen3:x64-windows
+   * pcl and so on 
+2. 检测圆形椭圆 https://github.com/jinneigeyu/ED_Lib
