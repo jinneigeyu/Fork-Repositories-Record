@@ -26,3 +26,5 @@ manage fork repositories
    * eigen3:x64-windows
    * pcl and so on 
 2. 检测圆形椭圆 https://github.com/jinneigeyu/ED_Lib
+3. imu标定 https://github.com/jinneigeyu/imu_tk_windows/tree/my_build_windows
+4. imu-camera-cali kalib
